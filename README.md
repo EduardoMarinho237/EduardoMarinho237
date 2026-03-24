@@ -1,4 +1,4 @@
-## Hi there 👋
+## Eduardo Marinho ☕
 
 <!--
 **EduardoMarinho237/EduardoMarinho237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
